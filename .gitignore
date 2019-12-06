@@ -1,6 +1,8 @@
 # IDE files
 .idea
-
+gradle
+gradlew
+gradlw.bat
 # Logs
 logs
 *.log
